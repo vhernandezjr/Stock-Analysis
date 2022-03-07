@@ -7,3 +7,7 @@ For this challenge the overarching goal is to help Steve identify the best inves
 To get to the results, the returns, in a timely fashion a macro able to scan by yearly ticker data was needed.  The first portions of our code meet this challenge by asking for the year to be analyzed and after receiving input from the user timing the macros speed to finish the task.
 
 The macros task was to compile Ticker, Total Daily Volume and Return data.  The macro needed to be guided by the user input to the year in which we needed the data, then to the correct tickers.  As important was letting the macro know how many rows of data to loop through and that our starting point for volume was at 0.  The macro looked for the first row of the tickers data then jumped to the last row of the tickers data to compile the data and give us the total daily volume and specific year return on investment per share.  To have the top and bottom stocks stand out for Steve, the code formatted the data so that the positive results would have a green interior cell.
+
+[GitHub Pages](https://github.com/vhernandezjr/Stock-Analysis/blob/e10ec62792ca82257062681f5f78323a7cc7bde8/Resources/VBA_Challenge_2017.png)
+
+
