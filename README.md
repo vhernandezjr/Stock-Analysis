@@ -8,7 +8,8 @@ For this challenge the overarching goal is to help Steve identify the best inves
 
 To get to the results, the returns, in a timely fashion a macro able to scan by yearly ticker data was needed.  The first portions of our code meets this challenge by asking for the year to be analyzed and after receiving input from the user - timing the macros speed to finish the task.
 
-![](Code SS/1.png)
+<img src="(Code SS/1.png)">
+
 
 The macros task was to compile Ticker, Total Daily Volume and Return data.  The macro needed to be guided by the user input to the year in which we needed to extract the data, then to the correct tickers.
 
